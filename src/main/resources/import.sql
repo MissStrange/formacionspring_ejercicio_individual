@@ -1,0 +1,1 @@
+insert into alumnos(nombre, apellido, dni, email, direccion, cp) values("Luis", "Martínez", "41235684T", "lm@gmail.com", "Calle Holanda, 9, 3ºA", 28967)
